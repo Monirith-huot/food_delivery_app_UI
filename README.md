@@ -2,7 +2,7 @@
 
 
 ## Homepage
-![](https://user-images.githubusercontent.com/91663623/178679288-78efff52-13a7-4421-9a34-3f1cbc26e946.png | width=100)
+![](https://user-images.githubusercontent.com/91663623/178679288-78efff52-13a7-4421-9a34-3f1cbc26e946.png)
 
 
 ## Restaurant menu
@@ -13,6 +13,6 @@
 
 
 
-# This is a self-learning project (code along with Lanuch Club)
+### This is a self-learning project (code along with Lanuch Club)
 
-# Lanuch Club : https://www.launchclub.io/courses
+### Lanuch Club : https://www.launchclub.io/courses
